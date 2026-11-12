@@ -1,0 +1,16 @@
+{
+  "name": "Agrumea Farm",
+  "short_name": "Agrumea",
+  "description": "Sicilian marmalades, pestos and preserves, made slowly in Floridia.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f3efe7",
+  "theme_color": "#f3efe7",
+  "icons": [
+    {
+      "src": "assets/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
